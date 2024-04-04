@@ -1,0 +1,1 @@
+There are two modes of git rebase command: standard and interactive. In standard mode git rebase will automatically apply the commits in the current working branch to the passed branch’s head. The current branch will be rebased onto <base> . This can be different kinds of commit references, as a tag, an ID, a branch name and so on.
